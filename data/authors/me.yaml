@@ -16,16 +16,7 @@ bio: "Full-stack developer with 5+ years of experience building scalable web app
 affiliations:
   - name: "Tech Corp"
     url: "https://techcorp.example.com"
-links:
-  - icon: "at-symbol"
-    url: "mailto:alex@example.com"
-    label: "E-mail Me"
-  - icon: "brands/github"
-    url: "https://github.com/alexjohnson"
-  - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/alexjohnson/"
-  - icon: "brands/x"
-    url: "https://x.com/alexjohnson"
+links: []
 interests:
   - "Web Development"
   - "Cloud Architecture"
