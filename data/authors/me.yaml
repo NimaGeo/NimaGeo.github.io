@@ -49,16 +49,6 @@ interests:
   - "Web GIS"
   - "Surveying"
 education:
-  - degree: "Associate Degree in Information and Communication Technology"
-    institution: "Iran University of Industries and Mines, University of Applied Science and Technology, Tehran, Iran"
-    start: "2008"
-    end: "2011"
-    summary: ""
-  - degree: "Bachelor of Surveying – Civil Engineering Technology"
-    institution: "Tarh va Rasm Parseh Co., University of Applied Science and Technology, Tehran, Iran"
-    start: "2017"
-    end: "2019"
-    summary: "Graduated as the 1st ranked student (GPA: 18.76/20)"
   - degree: "Master of Science (M.Sc.) in Surveying Engineering, Land Administration Systems"
     institution: "Shahid Beheshti University, Tehran, Iran"
     start: "2021"
@@ -73,6 +63,16 @@ education:
 
 
       Delivered voluntary workshops on ArcGIS Pro, Land Administration Systems (LAS), SDI fundamentals, and geospatial technologies"
+  - degree: "Bachelor of Surveying – Civil Engineering Technology"
+    institution: "Tarh va Rasm Parseh Co., University of Applied Science and Technology, Tehran, Iran"
+    start: "2017"
+    end: "2019"
+    summary: "Graduated as the 1st ranked student (GPA: 18.76/20)"
+  - degree: "Associate Degree in Information and Communication Technology"
+    institution: "Iran University of Industries and Mines, University of Applied Science and Technology, Tehran, Iran"
+    start: "2008"
+    end: "2011"
+    summary: ""
 experience:
   - role: "Senior GIS Specialist"
     org: "Tehran Municipality, District 5"
