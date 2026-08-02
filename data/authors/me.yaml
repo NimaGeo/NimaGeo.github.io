@@ -5,6 +5,7 @@ name:
   display: "Nima Alimohammadi"
   given: "Nima"
   family: "Alimohammadi"
+  pronunciation: "nee-maa"
 postnominals: []
 status:
   icon: "💻"
@@ -12,51 +13,82 @@ role: "Senior Geospatial Analyst | GIS Developer | Geospatial AI Researcher"
 email: "alex@example.com"
 bio: "Senior GIS & Geospatial AI Specialist with expertise in ArcGIS Pro, QGIS, Python, Remote Sensing, Deep Learning, and Spatial Data Analysis. Experienced in designing AI-assisted geospatial workflows for cadastral mapping, image segmentation, and spatial automation. IEEE-published researcher passionate about transforming innovative ideas into practical geospatial solutions"
 affiliations:
-  - name: "Tech Corp"
-    url: "https://techcorp.example.com"
-links: []
+  - name: "Shahid Beheshti University"
+    url: "https://www.sbu.ac.ir/"
+  - name: "District 5 of Tehran Municipality"
+    url: "https://region5.tehran.ir/"
+links:
+  - icon: "academicons/orcid"
+    url: "0009-0001-8302-9612"
+    label: "ORCID"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/nimageo/"
+    label: "LinkedIn"
+  - icon: "brands/github"
+    url: "https://nimageo.github.io"
+    label: "GitHub"
 interests:
-  - "Web Development"
-  - "Cloud Architecture"
-  - "Open Source"
-  - "Developer Experience"
+  - "Geographic Information Systems (GIS)"
+  - "Geospatial Data Science"
+  - "Remote Sensing"
+  - "Artificial Intelligence"
+  - "Machine Learning"
+  - "Deep Learning"
+  - "Image Segmentation"
+  - "Feature Extraction"
+  - "Computer Vision"
+  - "Cadastral Mapping"
+  - "Land Administration Systems (LAS)"
+  - "Spatial Data Infrastructure (SDI)"
+  - "Urban GIS"
+  - "Smart City Applications"
+  - "Spatial Analysis"
+  - "Geospatial Data Management"
+  - "Python"
+  - "Linux"
+  - "Web GIS"
+  - "Surveying"
 education:
-  - degree: "B.S. Computer Science"
-    institution: "State University"
-    start: "2015-09-01"
-    end: "2019-05-31"
-    summary: "Focus on software engineering and distributed systems.
+  - degree: "Associate Degree in Information and Communication Technology"
+    institution: "Iran University of Industries and Mines, University of Applied Science and Technology, Tehran, Iran"
+    start: "2008"
+    end: "2011"
+    summary: ""
+  - degree: "Bachelor of Surveying – Civil Engineering Technology"
+    institution: "Tarh va Rasm Parseh Co., University of Applied Science and Technology, Tehran, Iran"
+    start: "2017"
+    end: "2019"
+    summary: "Graduated as the 1st ranked student (GPA: 18.76/20)"
+  - degree: "Master of Science (M.Sc.) in Surveying Engineering, Land Administration Systems"
+    institution: "Shahid Beheshti University, Tehran, Iran"
+    start: "2021"
+    end: "2023"
+    summary: "Graduated as the 1st ranked student (GPA: 17.84/20)
 
-      Senior project on distributed caching systems.\n"
-    button:
-      text: "View Project"
-      url: "https://github.com/alexjohnson/senior-project"
-      icon: "brands/github"
+
+      Thesis: Extracting Rural Cadastral Maps by Using Fully Automated Approaches Based on established AI
+
+
+      Academic focus: Land Administration Systems, Spatial Data Infrastructure (SDI), GIS, and cadastral mapping.
+
+
+      Delivered voluntary workshops on ArcGIS Pro, Land Administration Systems (LAS), SDI fundamentals, and geospatial technologies"
 experience:
-  - role: "Senior Software Engineer"
-    org: "Tech Corp"
-    start: "2023-01-01"
-    summary: "Lead development of microservices architecture serving 1M+ users.
-
-      Improved API response time by 40% through optimization.
-
-      Mentored team of 5 junior developers.\n"
-  - role: "Full-Stack Developer"
-    org: "Startup Inc"
-    start: "2021-06-01"
-    end: "2022-12-31"
-    summary: "Built and deployed 3 production applications from scratch.
-
-      Implemented CI/CD pipeline reducing deployment time by 60%.
-
-      Led migration from monolith to microservices architecture.\n"
-  - role: "Junior Developer"
-    org: "Web Agency"
-    start: "2020-01-01"
-    end: "2021-05-31"
-    summary: "Developed client websites using React and modern web technologies.
-
-      Participated in code reviews and agile ceremonies.\n"
+  - role: "Senior GIS Specialist"
+    org: "Tehran Municipality, District 5"
+    start: "Jun 2021"
+    end: ""
+    summary: ""
+  - role: "GIS Specialist"
+    org: "Tehran Municipality, District 5"
+    start: "Jul 2014"
+    end: "Jun 2021"
+    summary: ""
+  - role: "IT Specialist and Data Analyst"
+    org: "Tehran Municipality, District 5"
+    start: "Jun 2008"
+    end: "Jul 2014"
+    summary: ""
 skills:
   - name: "Development"
     items:
@@ -81,3 +113,5 @@ languages:
     level: 5
     label: "Native"
 awards: []
+ids:
+  orcid: "0009-0001-8302-9612"
