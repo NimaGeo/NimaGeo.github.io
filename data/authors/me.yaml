@@ -3,16 +3,14 @@ slug: "me"
 is_owner: true
 name:
   display: "Nima Alimohammadi"
-  given: "Alex"
-  family: "Johnson"
+  given: "Nima"
+  family: "Alimohammadi"
 postnominals: []
 status:
   icon: "💻"
-role: "Full-Stack Developer"
+role: "Senior Geospatial Analyst | GIS Developer | Geospatial AI Researcher"
 email: "alex@example.com"
-bio: "Full-stack developer with 5+ years of experience building scalable web applications.
-
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.\n"
+bio: "Senior GIS & Geospatial AI Specialist with expertise in ArcGIS Pro, QGIS, Python, Remote Sensing, Deep Learning, and Spatial Data Analysis. Experienced in designing AI-assisted geospatial workflows for cadastral mapping, image segmentation, and spatial automation. IEEE-published researcher passionate about transforming innovative ideas into practical geospatial solutions"
 affiliations:
   - name: "Tech Corp"
     url: "https://techcorp.example.com"
