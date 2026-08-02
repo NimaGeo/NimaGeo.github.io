@@ -1,8 +1,9 @@
 hugoblox:
   theme:
-    mode: light
-    pack: retro
+    mode: dark
+    pack: synthwave
     colors:
-      primary: cyan
+      primary: ""
+      secondary: ""
   identity:
     name: Nima Alimohammadi
