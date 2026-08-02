@@ -107,6 +107,9 @@ skills:
         level: 5
 languages:
   - name: "English"
+    level: 4
+    label: "C1"
+  - name: "Persian"
     level: 5
     label: "Native"
 awards: []
